@@ -1,47 +1,53 @@
 [
   {
-    "company": "Sirena Travel",
-    "url": "sirena-travel.ru",
-    "startDate": "Feb 9, 2019",
+    "company": "Hey Influencers",
+    "url": "www.thisishey.com",
+    "startDate": "April 20, 2019",
     "endDate": "now",
-    "position": "Frontend Developer",
+    "position": "Lead Developer",
     "aboutPosition": [
       {
         "name": "Responsibility:",
         "options": [
-          "ui development",
-          "frontend development"
+          "Project Management",
+          "Backend & Frontend Development",
+          "System Administration",
+          "Development Operations Coordination"
         ]
       },
       {
         "name": "Technology Stack:",
         "options": [
-          "Framework: Angular, Bootstrap",
-          "Languages: JavaScript, TypeScript, Scss, HTML"
+          "Cloud Computing Provider: AWS",
+          "Frameworks: Rails, Bootstrap, React (webpacker)",
+          "Stack: Docker (Ubuntu Container), ruby, PostgreSQL (db), Redis (jobs), Rails(puma), Nginx (Reverse Proxy), Webpacker:React & Rails:Erb (Frontend)",
+          "Languages: JavaScript(& TypeScript to a lesser extent), SASS, Ruby, SQL, UNIX shell scripts, Docker scripts, Terraform scripts"
         ]
       },
       {
         "name": "Development Environments:",
         "options": [
-          "Webstorm, SublimeText, Figma",
-          "Webpack"
+          "InteliJ (Rubymine & Webstorm)",
+          "VS Code",
+          "Windows 10 + Windows Subsystem for Linux",
+          "Docker"
         ]
       },
       {
         "name": "Project / Version Management System:",
         "options": [
-          "JIRA, Gitlab"
+          "git"
         ]
       }
     ],
     "duties": {
-      "title": "My duties included:",
+      "title": "Debugging Legacy Code. Ew.",
       "options": [
-        "development of web application components;",
-        "routing;",
-        "validation of forms;",
-        "sending requests to the server and processing responses;",
-        "data visualization, graphing;",
+        "Updating & Debugging dependencies related errors across Rails, Webpack/React, ReactNative applications",
+        "This also fixes security vulnerabilities included in applications through legacy 3rd Party Software (3PS)",
+        "ES5 Javascript > ES6 Js",
+        "Cost Analysis of 3PS developer kits included in application, resulting in $1400 saved monthly by rebuilding internally, or modernising with open source alternatives",
+        "I updated",
         "convert psd (or other types of layouts) to html."
       ]
     }
