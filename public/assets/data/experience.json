@@ -53,47 +53,37 @@
     }
   },
   {
-    "company": "ANKO Technologies Corp",
-    "url": "ankocorp.com",
-    "startDate": "Feb 20, 2015",
-    "endDate": "Jan 10, 2019",
-    "position": "Frontend Developer",
+    "company": "Cool Shirtz",
+    "url": "https://shirtz.cool",
+    "startDate": "April 1, 2018",
+    "endDate": "April 20, 2019",
+    "position": "Software Developer",
     "aboutPosition": [
       {
         "name": "Responsibility:",
         "options": [
-          "ui development",
-          "frontend development"
+          "Frontend Development",
+          "Data Analysis",
+          "Logistics Infrastructure"
         ]
       },
       {
         "name": "Technology Stack:",
         "options": [
-          "Framework: AngularJS, ReactJS, Wordpress, Bootstrap",
-          "Languages: JavaScript, TypeScript, Scss, Less, HTML"
-        ]
-      },
-      {
-        "name": "Development Environments:",
-        "options": [
-          "Webstorm, SublimeText, Photoshop, Zeplin",
-          "Other: Webpack, Gulp"
-        ]
-      },
-      {
-        "name": "Project / Version Management System:",
-        "options": [
-          "JIRA, Gitlab, Github, Bitbucket"
+          "Ecommerce Provider: Shopify",
+          "Tools: Jquery, Shopify Liquid & JS,CSS,HTML",
+          "Data analysis tools: Python, Pandas, Tenserflow"
         ]
       }
     ],
     "duties": {
       "title": "My duties included:",
       "options": [
-        "convert psd (or other types of layouts) to html;",
-        "development of web application components;",
-        "data visualization;",
-        "Wordpress template design/development."
+        "Development of python scripts to shape datasets to conform with shipping providers",
+        "Improve user engagement on the site with fun frontend features",
+        "SEO analysis, Facebook Advertisements and Traffic Analysis",
+        "Customisation of 3rd party Shopify Theme.",
+        "Shopify Embedded Application Development"
       ]
     }
   }
