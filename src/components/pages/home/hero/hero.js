@@ -29,7 +29,7 @@ const Hero = ({person: {heroText, cvLink, social, email}}) => {
                             <img src={icon} alt="arrow" width="32" className="d-block d-md-none" />
                             <div className="text-right w-100">
                                 <a href={cvLink} rel="noreferrer noopener" target="_blank" className="link-styled ml-auto">
-                                    Download CV for test again
+                                    Download CV
                                 </a>
                             </div>
                         </div>
