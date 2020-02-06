@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh ubuntu@13.238.116.0 <<EOF
+ssh ubuntu@13.238.116.0 -tt <<EOF
 cd /home/ubuntu/resume
 git pull
 sudo docker-compose down
