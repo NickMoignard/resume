@@ -36,19 +36,19 @@
       {
         "name": "Project / Version Management System:",
         "options": [
-          "git"
+          "git",
+          "asana",
+          "slack"
         ]
       }
     ],
     "duties": {
-      "title": "Debugging Legacy Code. Ew.",
+      "title": "Duties",
       "options": [
         "Updating & Debugging dependencies related errors across Rails, Webpack/React, ReactNative applications",
         "This also fixes security vulnerabilities included in applications through legacy 3rd Party Software (3PS)",
-        "ES5 Javascript > ES6 Js",
-        "Cost Analysis of 3PS developer kits included in application, resulting in $1400 saved monthly by rebuilding internally, or modernising with open source alternatives",
-        "I updated",
-        "convert psd (or other types of layouts) to html."
+        "Conversion of ES5 Javascript to ES6 JS",
+        "Cost Analysis of 3PS developer kits included in application, resulting in $1400 saved monthly by rebuilding internally, or modernising with open source alternatives"
       ]
     }
   },
