@@ -1,8 +1,8 @@
 {
   "logos": [
-    "/assets/img/brands/armatura.svg",
-    "/assets/img/brands/saray.svg",
-    "/assets/img/brands/stolb.svg"
+    "/assets/img/brands/hey-logo.png",
+    "/assets/img/brands/cs-logo.png",
+    "/assets/img/brands/aehue-logo.png"
   ],
   "testimonials": [
     {
@@ -10,7 +10,7 @@
       "id": 1,
       "company": "Hey Influencers",
       "position": "CEO",
-      "img": "/assets/img/drew-hays-agGIKYs4mYs-unsplash.jpg",
+      "img": "/assets/img/gretta.jpg",
       "text": "tbc"
     },
     {
@@ -18,7 +18,7 @@
       "id": 2,
       "company": "Cool Shirtz",
       "position": "CEO",
-      "img": "/assets/img/jurica-koletic-efqnM0zWh54-unsplash.jpg",
+      "img": "/assets/img/scott.jpg",
       "text": "tbc"
     },
     {
@@ -26,7 +26,7 @@
       "id": 3,
       "company": "AeHue",
       "position": "CEO",
-      "img": "/assets/img/sander-weeteling-dq7Wlq_evnc-unsplash.jpg",
+      "img": "/assets/img/yuri.jpg",
       "text": "tbc"
     }
   ],
