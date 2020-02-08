@@ -2,52 +2,50 @@
   "logos": [
     "/assets/img/brands/armatura.svg",
     "/assets/img/brands/saray.svg",
-    "/assets/img/brands/stolb.svg",
-    "/assets/img/brands/waves_flung.svg",
-    "/assets/img/brands/zelenui.svg"
+    "/assets/img/brands/stolb.svg"
   ],
   "testimonials": [
     {
-      "name": "Anatoly Smith",
+      "name": "Gretta Van Riel",
       "id": 1,
-      "company": "ANKO Tech",
+      "company": "Hey Influencers",
       "position": "CEO",
       "img": "/assets/img/drew-hays-agGIKYs4mYs-unsplash.jpg",
-      "text": "I worked with John the past 4 years. John is a brilliant developer with very large skills in frontend and SPA. We'll definitely work with him in the future."
+      "text": "tbc"
     },
     {
-      "name": "Mark Stark",
+      "name": "Scott Guthrie",
       "id": 2,
-      "company": "Woodoo Corp",
+      "company": "Cool Shirtz",
       "position": "CEO",
       "img": "/assets/img/jurica-koletic-efqnM0zWh54-unsplash.jpg",
-      "text": "John was a great developer. Could take little info and run with it. He always completed tasks ahead of schedule."
+      "text": "tbc"
     },
     {
-      "name": "Richard Woo",
+      "name": "Yuriy Pashoulia",
       "id": 3,
-      "company": "Secure Lab",
+      "company": "AeHue",
       "position": "CEO",
       "img": "/assets/img/sander-weeteling-dq7Wlq_evnc-unsplash.jpg",
-      "text": "John is a top notch web designer, he is creative, punctual and communicates extremely well. I can only give him the highest recommendation to any future employers."
+      "text": "tbc"
     }
   ],
   "education": [
     {
-      "company": "Novosibirsk State \nTechnical University",
+      "company": "University of Melbourne",
       "id": 1,
-      "startDate": "Feb 2015",
-      "endDate": "Jan 2019",
-      "speciality": "Faculty of Software of computer equipment and automated systems",
-      "description": "He graduated with honors from retraining, defended his diploma and received the specialty of a programmer"
+      "startDate": "Dec 2015",
+      "endDate": "July 2017",
+      "speciality": "Bachelor of Biomedical Science",
+      "description": "I found this course very difficult and discovered my passion for software development as i procrastinated from studying medical notes. It was at this point in my life where i decided to pursue a career away from the medical fields"
     },
     {
-      "company": "Novosibirsk College \nof Electronics",
+      "company": "Swinburne University of Technology",
       "id": 2,
-      "startDate": "Feb 2015",
-      "endDate": "Jan 2019",
-      "speciality": "Faculty of Microelectronics and Solid State Electronics",
-      "description": "Successfully completed his studies and received the specialty of a senior technician \nin microelectronics and solid-state electronics"
+      "startDate": "Jan 2014",
+      "endDate": "Oct 2015",
+      "speciality": "Bachelor of Science (Chemistry)",
+      "description": "Did well but did not complete the course due to limited job oportunities, Key learnings from swinburne include: Organic / Inorganic Chemistry, Linguistics, Commercial Chemicals"
     }
   ],
   "skills": [
@@ -58,28 +56,50 @@
     },
     {
       "id": 2,
-      "name": "Angular",
-      "count": "70"
+      "name": "React.JS",
+      "count": "50"
     },
     {
       "id": 3,
-      "name": "React",
-      "count": "40"
+      "name": "React Native",
+      "count": "20"
     },
     {
       "id": 4,
-      "name": "Html/Css",
-      "count": "90"
+      "name": "Sass",
+      "count": "60"
     },
     {
       "id": 5,
-      "name": "Photoshop",
-      "count": "60"
+      "name": "PostgreSQL",
+      "count": "50"
     },
     {
       "id": 6,
-      "name": "Figma",
-      "count": "60"
+      "name": "Ruby on Rails",
+      "count": "75"
+    },
+    {
+      "id":7,
+      "name":"Python",
+      "count": "80"
+    },
+    {
+      "id": 8,
+      "name": "Docker / AWS / DevOps",
+      "count": "40"
+
+    },
+    {
+      "id": 9,
+      "name": "Shopify",
+      "count": "90"
+
+    },
+    {"id": 10,
+    "name": "Pandas / Statistics with python",
+    "count": "65"
     }
   ]
+
 }
