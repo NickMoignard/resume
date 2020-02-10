@@ -52,32 +52,25 @@ const About = () => {
                             <div className="col-lg-10 item-list">
                                 <ul>
                                     <li>
-                                        <p>JavaScript is the language that I think I'm an expert in. This is some tags:
-                                            ReactJS(redux, redux-saga,
-                                            code-splitting, CRA, redux-form, react-select, JEST, etc..), NodeJS(AWS Lambda, REST
-                                            API's), NPM, Webpack,
-                                            SocketIO. It what I'm focused on for the last 3 years working through Upwork;</p>
+                                        <p>JavaScript</p>
+                                        <p>React</p>
                                     </li>
                                     <li>
-                                        <p>I have a lot of experience in web development. I'm familiar with cutting-edge CSS and
-                                            HTML features.
+                                        <p>Ruby on Rails</p>
+                                    </li>
+                                    <li>
+                                        <p>Python</p>
+                                    </li>
+                                    <li>
+                                        <p>I have a lot of experience in web development.
                                             Complex animations, D&D, data visualizations with SVG or Canvas are not a problem at
                                             all;</p>
                                     </li>
                                     <li>
-                                        <p>I have a strong knowledge of relational databases(PostgreSQL, MySQL, MSSQL). I know
-                                            how to create a good
-                                            database structure. Have an experience of optimizing complex SQL queries. I also
-                                            have some experience
-                                            working with no-sql databases like DynamoDB and Mongo;</p>
+                                        <p>I have a strong knowledge of relational databases. My favourite database option is PostgreSQL </p>
                                     </li>
                                     <li>
-                                        <p>An example was working as a team lead(2-4 developers) so I'm familiar with such apps
-                                            as YouTrack, JIRA, Trello and
-                                            for sure with Github. I can help you with creating requirements, breaking it down to
-                                            a task, doing code
-                                            reviews, performing tech interviews with developers and so on. I believe these text
-                                            is not correct.</p>
+                                        <p>Team leader etc etc </p>
                                     </li>
                                 </ul>
                             </div>
@@ -94,29 +87,23 @@ const About = () => {
                             <div className="col-lg mb-4">
                                 <div className="row">
                                     <div className="col-md-5">
-                                        <img src="/assets/img/conf2.png" alt="" className="img-fluid image-gray mb-3"/>
+                                        <img src="/assets/img/conf2.jpg" alt="" className="img-fluid image-gray mb-3"/>
                                     </div>
                                     <div className="col-md-7">
-                                        <h4>React Day Berlin</h4>
-                                        <p>Take part in the exploration of the React universe! Focusing on in-depth
-                                            talks, hands-on workshops, and
-                                            finding new opportunities, React Day Berlin conference provides space for
-                                            everyone to make friends and
-                                            develop stellar apps together.</p>
+                                        <h4>Ruby on Rails Melbourne Meetup</h4>
+                                        <p>I attend the monthly RoR meetup in melbourne. Come watch lectures from colleagues around melbourne, Free food and drinks with plenty of time for discussion after the presentations</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg mb-4">
                                 <div className="row">
                                     <div className="col-md-5">
-                                        <img src="/assets/img/conf1.png" alt="" className="img-fluid image-gray mb-3"/>
+                                        <img src="/assets/img/conf1.jpg" alt="" className="img-fluid image-gray mb-3"/>
                                     </div>
                                     <div className="col-md-7">
-                                        <h4>dotJS</h4>
-                                        <p>dotConferences is a series of high-caliber developer events in Paris.</p>
-                                        <p>We will bring you the best speakers in their fields. Invite them on the best
-                                            stages Paris has to offer.
-                                            Make you enjoy tech conferences like you never did!</p>
+                                        <h4>Python Meetup Melbourne</h4>
+                                        <p>Monthly Python meetup for Melbourne developers</p>
+                                        <p>Lectures, free food and discussion with colleagues! I attend monthly, feel free to chat with me after the talks :)</p>
                                     </div>
                                 </div>
                             </div>

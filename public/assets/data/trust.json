@@ -2,7 +2,7 @@
   "logos": [
     "/assets/img/brands/hey-logo.png",
     "/assets/img/brands/cs-logo.png",
-    "/assets/img/brands/aehue-logo.png"
+    "/assets/img/brands/auhue-logo.png"
   ],
   "testimonials": [
     {
@@ -10,7 +10,7 @@
       "id": 1,
       "company": "Hey Influencers",
       "position": "CEO",
-      "img": "/assets/img/gretta.jpg",
+      "img": "/assets/img/gretta.png",
       "text": "tbc"
     },
     {

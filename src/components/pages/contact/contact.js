@@ -18,7 +18,7 @@ const Contact = () => {
                     <div className="row min-vh-100">
                         <div className="col-md-7 col-lg-6 d-flex align-items-start align-items-md-end pb-5 mr-auto">
                             <div className="w-100 pr-lg-5">
-                                <h1 className="mb-5 mt-6">Contact, perhaps?</h1>
+                                <h1 className="mb-5 mt-6">Lets get in touch!</h1>
                                 <ContactForm/>
                             </div>
                         </div>
@@ -30,7 +30,7 @@ const Contact = () => {
                                     </li>
                                 })}
                                 <li>
-                                    <Link to={`tel:${phone}`} className="h3 font-weight-light text-body">+7 (952) 911 10 15</Link>
+                                    <Link to={`tel:${phone}`} className="h3 font-weight-light text-body">(+61) 434 232 906</Link>
                                 </li>
                                 <li>
                                     <Link to={`mailto:${email}`}
