@@ -6,7 +6,7 @@ const ContactForm = () => {
     return (
         <React.Fragment>
 
-            <div className="alert alert-success" role="alert">
+            {/* <div className="alert alert-success" role="alert">
                 <b>Well done!</b> We will contact you soon.
                 <button type="button" className="close">
                     <span>&times;</span>
@@ -41,7 +41,7 @@ const ContactForm = () => {
                         Send message
                     </button>
                 </div>
-            </form>
+            </form> */}
 
         </React.Fragment>
     )
