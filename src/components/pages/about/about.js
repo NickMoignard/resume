@@ -13,7 +13,7 @@ const About = () => {
 
                 <div className="row big-text mb-5 mb-lg-6">
                     <div className="col-lg-10">
-                        <h4 className="mb-0 mt-5">You will be interested</h4>
+                        <h4 className="mb-0 mt-5">Should you be interested in working with me</h4>
                         <h1 className="mt-0 mb-0 text-uppercase">{name}</h1>
 
                         <div className="row mb-5 h4">
@@ -43,38 +43,9 @@ const About = () => {
                             </div>
                         </div>
 
-                        <p className="mb-4">I'm a software developer with more than 9 years of experience. I can write both front-end and
-                            back-end
-                            applications, browser extensions, desktop and mobile apps. In my career, I was working with
-                            many different
-                            technologies:</p>
-                        <div className="row">
-                            <div className="col-lg-10 item-list">
-                                <ul>
-                                    <li>
-                                        <p>JavaScript</p>
-                                        <p>React</p>
-                                    </li>
-                                    <li>
-                                        <p>Ruby on Rails</p>
-                                    </li>
-                                    <li>
-                                        <p>Python</p>
-                                    </li>
-                                    <li>
-                                        <p>I have a lot of experience in web development.
-                                            Complex animations, D&D, data visualizations with SVG or Canvas are not a problem at
-                                            all;</p>
-                                    </li>
-                                    <li>
-                                        <p>I have a strong knowledge of relational databases. My favourite database option is PostgreSQL </p>
-                                    </li>
-                                    <li>
-                                        <p>Team leader etc etc </p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        <p className="mb-4">I am a self-taught React on Rails developer based in Melbourne. I have proven experience with both front and back end development, and a strong understanding of SQL databases, Agile Scrums, machine learning, SEO analysis, web scraping bots, Docker and Dev Ops.</p>
+                    
+        
                     </div>
                 </div>
             </div>
