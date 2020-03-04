@@ -1,8 +1,7 @@
 {
   "logos": [
     "/assets/img/brands/hey-logo.png",
-    "/assets/img/brands/cs-logo.png",
-    "/assets/img/brands/auhue-logo.png"
+    "/assets/img/brands/cs-logo.png"
   ],
   "testimonials": [
     {
@@ -11,7 +10,7 @@
       "company": "Hey Influencers",
       "position": "CEO",
       "img": "/assets/img/gretta.png",
-      "text": "tbc"
+      "text": ""
     },
     {
       "name": "Scott Guthrie",
@@ -19,15 +18,7 @@
       "company": "Cool Shirtz",
       "position": "CEO",
       "img": "/assets/img/scott.jpg",
-      "text": "tbc"
-    },
-    {
-      "name": "Yuriy Pashoulia",
-      "id": 3,
-      "company": "AeHue",
-      "position": "CEO",
-      "img": "/assets/img/yuri.jpg",
-      "text": "tbc"
+      "text": ""
     }
   ],
   "education": [
@@ -37,7 +28,7 @@
       "startDate": "Dec 2015",
       "endDate": "July 2017",
       "speciality": "Bachelor of Biomedical Science",
-      "description": "I found this course very difficult and discovered my passion for software development as i procrastinated from studying medical notes. It was at this point in my life where i decided to pursue a career away from the medical fields"
+      "description": "Struggling to connect with the content of this course, I began independently learning Swift to procrastinate from studying medical notes. Through this, I discovered my passion for software development and decided to pursue this pathway that better aligned with my career aspirations."
     },
     {
       "company": "Swinburne University of Technology",
@@ -56,18 +47,18 @@
     },
     {
       "id": 2,
-      "name": "React.JS",
-      "count": "50"
+      "name": "React.js",
+      "count": "30"
     },
     {
       "id": 3,
-      "name": "React Native",
-      "count": "20"
+      "name": "Web Scraping",
+      "count": "100"
     },
     {
       "id": 4,
-      "name": "Sass",
-      "count": "60"
+      "name": "Styling",
+      "count": "80"
     },
     {
       "id": 5,
@@ -77,12 +68,12 @@
     {
       "id": 6,
       "name": "Ruby on Rails",
-      "count": "75"
+      "count": "90"
     },
     {
       "id":7,
       "name":"Python",
-      "count": "80"
+      "count": "75"
     },
     {
       "id": 8,
@@ -98,7 +89,7 @@
     },
     {"id": 10,
     "name": "Pandas / Statistics with python",
-    "count": "65"
+    "count": "60"
     }
   ]
 

@@ -14,7 +14,7 @@ const Trust = ({trust}) => {
         <div className="they-trust py-5 py-lg-6">
             <div className="container">
 
-                <h2>They are trust me</h2>
+                <h2>They trust me</h2>
 
                 <div className="row align-items-center mb-5">
                     {logos && logos.map((logo, key) => (

@@ -3,7 +3,7 @@ import {Formik} from 'formik'
 import './contact-form.scss'
 
 const ContactForm = () => {
-    /*return (
+    return (
         <React.Fragment>
 
             <div className="alert alert-success" role="alert">
@@ -44,7 +44,7 @@ const ContactForm = () => {
             </form>
 
         </React.Fragment>
-    )*/
+    )
 
     const initialValues = {email: '', message: ''}
 
