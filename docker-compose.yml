@@ -2,26 +2,6 @@ version: "3"
 services:
   frontend:
     build: .
-    environment:
-      - REACT_APP_PORT=${REACT_APP_PORT}
-    expose:
-      - ${REACT_APP_PORT}
     ports:
-      - ${REACT_APP_PORT}:${REACT_APP_PORT}
-    volumes:
-      - ./src:/src
-      - ./public:/public
-    command: npm run start
+      - 3000:3000
 
-  # backend:
-  #   build: ./backend
-  #   expose:
-  #     - ${APP_SERVER_PORT}
-  #   environment: 
-  #     API_HOST: ${APP_HOST}
-  #     APP_SERVER_PORT: ${APP_SERVER_PORT}
-  #   ports:
-  #     - ${APP_SERVER_PORT}:${APP_SERVER_PORT}
-  #   volumes:
-  #     -   ./backend:/backend
-  #   command: npm run dev

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "",
+        "bgColorClass":"",
+        "productsDescription":"",
+        "price":"$USD 50",
+        "title":"eCommerce Audit",
+        "description":"Identification & diagnosis of issues on your web store. I look for technical errors, UX optimisation & SEO improvements",
+        "techImgUrls":[
+            "/assets/img/logos/shopify.png"
+        ]
+    },
+    {
+        "id": 2,
+        "imgUrl": "",
+        "bgColorClass":"",
+        "productsDescription":"",
+        "price":"",
+        "title":"",
+        "description":"",
+        "techImgUrls":[
+
+        ]
+    },
+    {
+        "id": 3,
+        "imgUrl": "",
+        "bgColorClass":"",
+        "productsDescription":"",
+        "price":"",
+        "title":"",
+        "description":"",
+        "techImgUrls":[
+
+        ]
+    }
+]
