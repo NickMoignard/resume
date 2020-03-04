@@ -7,7 +7,7 @@
     "imgPreviewUrl": "/assets/img/hey-bnr.png",
     "bgColorClass": "bg-warning",
     "projectDescription": "Ruby on Rails backend & frontend + iOS (React native application)",
-    "linkToProject": "/projects/heyinfluencers"
+    "linkToProject": "app.justsayhey.co"
   },
   {
     "id": 2,
@@ -17,17 +17,6 @@
     "imgPreviewUrl": "/assets/img/projects/cs-bnr.jpg",
     "bgColorClass": "bg-white",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti eligendi eum hic inventore officiis? Accusamus culpa deleniti est eum fuga laborum molestias necessitatibus reiciendis repellendus soluta, totam unde voluptate voluptatibus!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consequuntur ex quam tempore.",
-    "linkToProject": "/projects/coolshirtz"
-  },
-  {
-    "id": 3,
-    "brand": "AeHue",
-    "title": "High Quality Art Prints",
-    "category": "Shopify, Eccommerce",
-    "imgPreviewUrl": "/assets/img/projects/aehue-bnr.jpg",
-    "bgColorHex": "#212529",
-    "textColor": "text-light",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti eligendi eum hic inventore officiis? Accusamus culpa deleniti est eum fuga laborum molestias necessitatibus reiciendis repellendus soluta, totam unde voluptate voluptatibus!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consequuntur ex quam tempore.",
-    "linkToProject": "/projects/aehue"
+    "linkToProject": "https://shirtz.cool"
   }
 ]

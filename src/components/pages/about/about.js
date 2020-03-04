@@ -87,7 +87,7 @@ const About = () => {
                             <div className="col-lg mb-4">
                                 <div className="row">
                                     <div className="col-md-5">
-                                        <img src="/assets/img/conf2.jpg" alt="" className="img-fluid image-gray mb-3"/>
+                                        <img src="/assets/img/conf2.jpeg" alt="" className="img-fluid image-gray mb-3"/>
                                     </div>
                                     <div className="col-md-7">
                                         <h4>Ruby on Rails Melbourne Meetup</h4>
@@ -98,7 +98,7 @@ const About = () => {
                             <div className="col-lg mb-4">
                                 <div className="row">
                                     <div className="col-md-5">
-                                        <img src="/assets/img/conf1.jpg" alt="" className="img-fluid image-gray mb-3"/>
+                                        <img src="/assets/img/conf1.jpeg" alt="" className="img-fluid image-gray mb-3"/>
                                     </div>
                                     <div className="col-md-7">
                                         <h4>Python Meetup Melbourne</h4>
