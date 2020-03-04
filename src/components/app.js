@@ -58,7 +58,7 @@ function App() {
                     <Route path="/about" component={About}/>
                     <Route path="/contact" component={Contact}/>
                     <Route path="/portfolio" component={Projects}/>
-                    <Route path="/projects/:slug" component={SingleProject}/>
+                    {/* <Route path="/projects/:slug" component={SingleProject}/> */}
                     <Route component={NoMatch}/>
                 </AnimatedSwitch>
                 <Footer/>
